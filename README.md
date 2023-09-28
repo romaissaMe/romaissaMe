@@ -1,4 +1,4 @@
-<h3 align="left">Hi there👋! I'm Roumaissa, I'm 22 years old  and currently on a journey towards a master's degree in AI. With a background in computer science and software engineering, I've found my passion in the fascinating worlds of Robotics and AI</h3>
+<h3 align="left">Hi there👋! I'm Roumaissa, currently on a journey towards a master's degree in AI. With a background in computer science and software engineering, I've found my passion in the fascinating worlds of Robotics and AI</h3>
 
 ###
 
