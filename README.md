@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Where is it python in those stats!!!! xd</p>
+<p align="left">Those statistics are not accurate! xd</p>
 
 ###
 
