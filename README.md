@@ -100,7 +100,7 @@
 
 ###
 
-<h3 align="left">Because I'm always up for a challenge and eager to learn new things 🌟 :</h3>
+<h3 align="left">🌟 Because I'm always up for a challenge and eager to learn new things:</h3>
 
 ###
 
