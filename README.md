@@ -92,14 +92,8 @@
 
 <h5 align="left"> 🚀 Passionate Problem Solver: </h5>
  I thrive on tackling intricate AI and software engineering challenges
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
+ 
+ ###
 
 <h3 align="left">🌟 Because I'm always up for a challenge and eager to learn new things:</h3>
 
