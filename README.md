@@ -89,7 +89,7 @@
 - Web Scraping for Data Extraction
 - Crafting Robust and Efficient Software Solutions
 
-<h3 align="left"> Passionate Problem Solver: </h3>
+<h5 align="left"> 🚀 Passionate Problem Solver: </h5>
  I thrive on tackling intricate AI and software engineering challenges
 
 ###
