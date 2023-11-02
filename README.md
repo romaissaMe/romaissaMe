@@ -104,10 +104,8 @@
 
 ###
 
-<p align="left">- I'm currently studying Reinforcement learning 🌐🤖🚀</p>
+- I'm currently studying Reinforcement learning 🌐🤖🚀  
 
-###
-
-<p align="left">-I'm expanding my skills in web dev by working with next js</p>
+- I'm expanding my skills in web dev by working with next js  
 
 ###
