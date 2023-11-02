@@ -81,16 +81,16 @@
 </div>
 
 ###
+<h4 align="left"> 🚀 Key Expertise:</h4>
 
-<h2 align="left">Skills 🚀</h2>
+- Data Analysis, Statistics, and Time Series Forecasting
+- SQL and NoSQL Database Management
+- Machine Learning and Deep Learning (Computer Vision, NLP)
+- Web Scraping for Data Extraction
+- Crafting Robust and Efficient Software Solutions
 
-###
-
-<h4 align="left">Here's a sneak peek into my skill set:</h4>
-
-###
-
-<p align="left"><strong>Data Science:</strong> I'm your go-to person for data analysis, statistics, and time series forecasting. I can tame both SQL and NoSQL databases with ease. When it comes to machine learning and deep learning, consider me your AI ally whether it's computer vision or natural language processing. I'm also quite adept at web scraping to uncover hidden data treasures.<br><br><strong>Full Stack Web Development:</strong> I'm not stranger to building full-stack applications, whether it's with the MERN stack or leveraging the power of FastAPI. From front-end to back-end, I've got it covered.<br><br><strong>Software Engineering:</strong> I have a knack for crafting robust and efficient software solutions. <br><br><strong>Algorithms and Problem Solving:</strong> I love tackling complex problems head-on. Whether it's algorithmic challenges or real-world puzzles, I enjoy the thrill of finding elegant solutions.</p>
+<h3 align="left"> Passionate Problem Solver: </h3>
+ I thrive on tackling intricate AI and software engineering challenges
 
 ###
 
