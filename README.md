@@ -81,12 +81,3 @@
  
  ###
 
-<h4 align="left">🌟 Because I'm always up for a challenge and eager to learn new things:</h4>
-
-###
-
-- I'm currently studying Reinforcement learning 🌐🤖🚀  
-
-- I'm expanding my skills in web dev by working with next js  
-
-###
