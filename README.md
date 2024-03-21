@@ -1,5 +1,5 @@
 <h4 align="left">Hi there👋! I'm Roumaissa, currently on a journey towards a master's degree in AI. <br>
-  With a background in computer science and software engineering, I've found my passion in the fascinating worlds of Robotics and AI</h4>
+  With a background in computer science and software engineering, I thrive on tackling intricate AI and software engineering challenges</h4>
 
 ###
 
@@ -70,14 +70,10 @@
 ###
 <h4 align="left"> 🚀 Key Expertise:</h4>
 
-- Data Analysis, Statistics, and Time Series Forecasting
+- Data Analysis, Statistics, data mining and Time Series Forecasting
 - SQL and NoSQL Database Management
 - Machine Learning and Deep Learning (Computer Vision, NLP)
-- Web Scraping for Data Extraction
+- Web Scraping 
 - Crafting Robust and Efficient Software Solutions
 
-<h5 align="left"> 🚀 Passionate Problem Solver: </h5>
- I thrive on tackling intricate AI and software engineering challenges
- 
- ###
 
