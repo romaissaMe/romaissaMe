@@ -73,7 +73,6 @@
 - Data Analysis, Statistics, data mining and Time Series Forecasting
 - SQL and NoSQL Database Management
 - Machine Learning and Deep Learning (Computer Vision, NLP)
-- Web Scraping 
 - Crafting Robust and Efficient Software Solutions
 
 
